@@ -1,0 +1,30 @@
+# Archivos de compilación de Gradle
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Módulos de la app
+app/build/
+app/*.iml
+
+# Claves de firma y contraseñas
+*.jks
+*.keystore
+signing.properties
+
+# Reportes y logs
+*.log
+lint/
+build/
